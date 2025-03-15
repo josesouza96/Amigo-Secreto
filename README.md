@@ -26,8 +26,8 @@ Aplicação web para organização de sorteios de amigo secreto.
 
 ## 📋 Pré-requisitos
 
-- Navegador moderno (Chrome 90+, Firefox 88+, Edge 90+)
-- Conexão com internet (para fontes externas)
+- Navegador moderno
+- Conexão com internet (apenas para fontes externas)
 
 ## 🛠️ Instalação
 
